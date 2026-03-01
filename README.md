@@ -74,3 +74,11 @@ Jika `config.json` belum ada, jalankan skrip sekali agar file terbuat secara oto
 1. **Penggunaan Bebersama** Skrip ini ditujukan murni untuk sekadar alat bantu pembelajaran (*automations web testing*). 
 2. Membuat akun dalam jumlah besar secara terus-menerus bisa menyebabkan pemblokiran akses koneksi IP oleh provider situs (Cloudflare / OpenAI). 
 3. Gunakan dengan tanggung jawab sendiri. Risiko pemblokiran akun berada di tangan pengguna.
+
+---
+
+## 📜 Lisensi
+
+Proyek ini menggunakan lisensi **MIT License**. Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini, baik untuk tujuan komersial maupun non-komersial, dengan syarat mencantumkan pemberitahuan hak cipta asli dan penafian (disclaimer).
+
+*Perangkat lunak ini disediakan "sebagaimana adanya", tanpa jaminan apa pun.*
