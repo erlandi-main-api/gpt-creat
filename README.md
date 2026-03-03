@@ -51,7 +51,7 @@ Jika `config.json` belum ada, jalankan skrip sekali agar file terbuat secara oto
   "headless": false,
   "slow_mo": 1000,
   "timeout": 30000,
-  "password": "GantiPasswordAnda123!"
+  "password": "MemeK92928338@"
 }
 ```
 
